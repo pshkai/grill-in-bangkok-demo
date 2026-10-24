@@ -36,11 +36,11 @@ GitHub Pages uses `.github/workflows/pages.yml`: check, build `dist/`, upload th
 
 Research date: 24 October 2026. See [RESEARCH.md](RESEARCH.md) and the public [sources page](sources.html) for source URLs and conflicts.
 
-Address: DONKI Mall Thonglor, Unit 402, fourth floor, 107 Sukhumvit 63, Khlong Tan Nuea, Watthana, Bangkok 10110. Landline +66 2 126 0975 is corroborated by Wongnai and Tripadvisor. Social accounts were supplied by the user but direct page content was restricted. No standalone official website was verified. Language preference is uncertain, so the concept supports English and Thai.
+Address: DONKI Mall Thonglor, Unit 402, fourth floor, 107 Sukhumvit 63, Khlong Tan Nuea, Watthana, Bangkok 10110. Landline +66 2 126 0975 is corroborated by Wongnai and Tripadvisor. Social accounts were supplied by the user but direct page content was restricted. The Maps-listed domain grillinbangkok.com failed DNS resolution. Language preference is uncertain, so the concept supports English and Thai.
 
-Opening hours conflict, and the site asks visitors to confirm directly. No prices, ratings, invented reviews, credentials or live availability are displayed. LINE is pending destination and owner verification. The provided Google Maps short link is preserved but not independently resolved during research. External platforms may require login or change availability.
+Opening hours conflict, and the site asks visitors to confirm directly. No prices, ratings, invented reviews, credentials or live availability are displayed. LINE is pending destination and owner verification. The provided Google Maps short link was verified in the browser and matches the restaurant and address. External platforms may require login or change availability.
 
-Before production: owner approval, brand assets and photo permissions, verified hours/menu/pricing/allergens, contact and LINE confirmation, location-link verification, accessibility review with actual customers, and an approved real reservation service. Remove unsolicited-demo disclosures and indexing restriction only after authorization and production readiness.
+Before production: owner approval, brand assets and photo permissions, verified hours/menu/pricing/allergens, contact and LINE confirmation, accessibility review with actual customers, and an approved real reservation service. Remove unsolicited-demo disclosures and indexing restriction only after authorization and production readiness.
 
 ## Asset credits
 
